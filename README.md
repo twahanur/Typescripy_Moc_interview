@@ -1,4 +1,4 @@
-# l2b2a1-explore-basic-typescript-simple-assignment-twahanur
+#Typescript Moc Interview questions and basic code examples
 
 # <h3># What are some benefits of using TypeScript over JavaScript in a project?</h3>
 
